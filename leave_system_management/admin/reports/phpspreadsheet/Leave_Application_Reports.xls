@@ -1,0 +1,38 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Sheet1</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table><table><tr><th colspan="6" style="text-align: center; font-size: 14px;">Total Leave Applications: 1</th></tr><tr><th colspan="6" style="text-align: center; font-size: 14px;">Generated Time: 3:07:58 PM</th></tr><tr><th colspan="6" style="text-align: center; font-size: 14px;">Generated Date: 11/7/2023</th></tr><tr><th colspan="6" style="text-align: center; font-size: 18px;"></th></tr><tr><th colspan="6" style="text-align: center; font-size: 24px;">Leave Application Reports</th></tr>
+			<table class="table table-hover table-stripped">
+				<colgroup>
+					<col width="5%">
+					<col width="20%">
+					<col width="20%">
+					<col width="15%">
+					<col width="10%">
+					<col width="30%">
+				</colgroup>
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Employee</th>
+						<th>Leave Type</th>
+						<th>Date</th>
+						<th>Status</th>
+						
+					</tr>
+				</thead>
+				<tbody>
+											<tr>
+							<td class="text-center">1</td>
+							<td>
+                                <small><b>ID: </b>SOT2301</small><br>
+                                <small><b>Name: </b></small>
+                            </td>
+							<td>CS - Casual Leaves</td>
+							<td>
+                            2023-11-01 - 2023-11-05                            </td>
+							<td class="text-center">
+                                                            <span class="badge badge-success mx-2">Approved</span>
+                                                        </td>
+							
+						</tr>
+														</tbody>
+			</table>
+		</table></table></body></html>
